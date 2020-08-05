@@ -7,7 +7,7 @@
 @                                                               @
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
  
-       */Do know acknowlege those who dont understand your values /*
+       */Do not acknowlege those who dont understand your values /*
        
 #define _XOPEN_SOURCE
 #include <unistd.h>
